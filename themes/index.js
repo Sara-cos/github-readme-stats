@@ -294,6 +294,36 @@ const themes = {
     text_color: "FFFFFF",
     bg_color: "2C2F33",
   },
+   brown_creme : {
+    title_color: "000000",
+    icon_color: "543E09",
+    text_color: "382C10",
+    bg_color: "dECEA0",
+  },
+  purple_vue : {
+    title_color: "000000",
+    icon_color: "543E09",
+    text_color: "382C10",
+    bg_color: "FFF0F6",
+  },
+  rasberry : {
+    title_color: "000000",
+    icon_color: "000000",
+    text_color: "000000",
+    bg_color: "A17078",
+  },
+  dark_ash : {
+    title_color: "000000",
+    icon_color: "000000",
+    text_color: "000000",
+    bg_color: "A69598",
+  },
+  rain_blue : {
+    title_color: "000000",
+    icon_color: "000000",
+    text_color: "000000",
+    bg_color: "8B9AA3",
+  },
 };
 
 module.exports = themes;
